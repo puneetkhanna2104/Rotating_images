@@ -1,2 +1,2 @@
-# Rotating_images-
+# Rotating_images
 Rotating the images without cropping it using opencv
